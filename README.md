@@ -1,4 +1,4 @@
-# CaixaEletronic
+# CaixaEletronico
         // Definição de variáveis
         int contaNumero = 123456;
         double saldo = 0;
